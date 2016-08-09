@@ -1,0 +1,12 @@
+a:hover{
+	color:lime;
+	background-color: blue;
+}
+
+ul {
+	list-style: none;
+}
+
+a:active {
+	padding: 0 5px;
+}
